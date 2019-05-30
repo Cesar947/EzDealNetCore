@@ -1,0 +1,48 @@
+C:\Users\sebas\Desktop\UPCService\bin\Debug\netcoreapp2.2\UPCService.deps.json
+C:\Users\sebas\Desktop\UPCService\bin\Debug\netcoreapp2.2\UPCService.runtimeconfig.json
+C:\Users\sebas\Desktop\UPCService\bin\Debug\netcoreapp2.2\UPCService.runtimeconfig.dev.json
+C:\Users\sebas\Desktop\UPCService\bin\Debug\netcoreapp2.2\UPCService.dll
+C:\Users\sebas\Desktop\UPCService\bin\Debug\netcoreapp2.2\UPCService.pdb
+C:\Users\sebas\Desktop\UPCService\obj\Debug\netcoreapp2.2\UPCService.csprojAssemblyReference.cache
+C:\Users\sebas\Desktop\UPCService\obj\Debug\netcoreapp2.2\UPCService.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Desktop\UPCService\obj\Debug\netcoreapp2.2\UPCService.RazorAssemblyInfo.cache
+C:\Users\sebas\Desktop\UPCService\obj\Debug\netcoreapp2.2\UPCService.RazorAssemblyInfo.cs
+C:\Users\sebas\Desktop\UPCService\obj\Debug\netcoreapp2.2\UPCService.AssemblyInfoInputs.cache
+C:\Users\sebas\Desktop\UPCService\obj\Debug\netcoreapp2.2\UPCService.AssemblyInfo.cs
+C:\Users\sebas\Desktop\UPCService\obj\Debug\netcoreapp2.2\UPCService.RazorTargetAssemblyInfo.cache
+C:\Users\sebas\Desktop\UPCService\obj\Debug\netcoreapp2.2\UPCService.dll
+C:\Users\sebas\Desktop\UPCService\obj\Debug\netcoreapp2.2\UPCService.pdb
+C:\Users\sebas\Desktop\UPCService\bin\Debug\netcoreapp2.2\UPCService.Views.dll
+C:\Users\sebas\Desktop\UPCService\bin\Debug\netcoreapp2.2\UPCService.Views.pdb
+C:\Users\sebas\Desktop\UPCService\obj\Debug\netcoreapp2.2\UPCService.TagHelpers.input.cache
+C:\Users\sebas\Desktop\UPCService\obj\Debug\netcoreapp2.2\UPCService.TagHelpers.output.cache
+C:\Users\sebas\Desktop\UPCService\obj\Debug\netcoreapp2.2\UPCService.RazorCoreGenerate.cache
+C:\Users\sebas\Desktop\UPCService\obj\Debug\netcoreapp2.2\Razor\Views\Home\about.g.cshtml.cs
+C:\Users\sebas\Desktop\UPCService\obj\Debug\netcoreapp2.2\Razor\Views\Home\index.g.cshtml.cs
+C:\Users\sebas\Desktop\UPCService\obj\Debug\netcoreapp2.2\UPCService.RazorTargetAssemblyInfo.cs
+C:\Users\sebas\Desktop\UPCService\obj\Debug\netcoreapp2.2\UPCService.Views.pdb
+C:\Users\sebas\Desktop\UPCService\obj\Debug\netcoreapp2.2\UPCService.csproj.CopyComplete
+D:\5TO CICLO\APLICACIONES WEB\UPCService\bin\Debug\netcoreapp2.2\UPCService.deps.json
+D:\5TO CICLO\APLICACIONES WEB\UPCService\bin\Debug\netcoreapp2.2\UPCService.runtimeconfig.json
+D:\5TO CICLO\APLICACIONES WEB\UPCService\bin\Debug\netcoreapp2.2\UPCService.runtimeconfig.dev.json
+D:\5TO CICLO\APLICACIONES WEB\UPCService\bin\Debug\netcoreapp2.2\UPCService.dll
+D:\5TO CICLO\APLICACIONES WEB\UPCService\bin\Debug\netcoreapp2.2\UPCService.pdb
+D:\5TO CICLO\APLICACIONES WEB\UPCService\bin\Debug\netcoreapp2.2\UPCService.Views.dll
+D:\5TO CICLO\APLICACIONES WEB\UPCService\bin\Debug\netcoreapp2.2\UPCService.Views.pdb
+D:\5TO CICLO\APLICACIONES WEB\UPCService\obj\Debug\netcoreapp2.2\UPCService.csprojAssemblyReference.cache
+D:\5TO CICLO\APLICACIONES WEB\UPCService\obj\Debug\netcoreapp2.2\UPCService.csproj.CoreCompileInputs.cache
+D:\5TO CICLO\APLICACIONES WEB\UPCService\obj\Debug\netcoreapp2.2\UPCService.RazorAssemblyInfo.cache
+D:\5TO CICLO\APLICACIONES WEB\UPCService\obj\Debug\netcoreapp2.2\UPCService.RazorAssemblyInfo.cs
+D:\5TO CICLO\APLICACIONES WEB\UPCService\obj\Debug\netcoreapp2.2\UPCService.AssemblyInfoInputs.cache
+D:\5TO CICLO\APLICACIONES WEB\UPCService\obj\Debug\netcoreapp2.2\UPCService.AssemblyInfo.cs
+D:\5TO CICLO\APLICACIONES WEB\UPCService\obj\Debug\netcoreapp2.2\UPCService.TagHelpers.input.cache
+D:\5TO CICLO\APLICACIONES WEB\UPCService\obj\Debug\netcoreapp2.2\UPCService.TagHelpers.output.cache
+D:\5TO CICLO\APLICACIONES WEB\UPCService\obj\Debug\netcoreapp2.2\UPCService.RazorCoreGenerate.cache
+D:\5TO CICLO\APLICACIONES WEB\UPCService\obj\Debug\netcoreapp2.2\Razor\Views\Home\about.g.cshtml.cs
+D:\5TO CICLO\APLICACIONES WEB\UPCService\obj\Debug\netcoreapp2.2\Razor\Views\Home\index.g.cshtml.cs
+D:\5TO CICLO\APLICACIONES WEB\UPCService\obj\Debug\netcoreapp2.2\UPCService.RazorTargetAssemblyInfo.cache
+D:\5TO CICLO\APLICACIONES WEB\UPCService\obj\Debug\netcoreapp2.2\UPCService.RazorTargetAssemblyInfo.cs
+D:\5TO CICLO\APLICACIONES WEB\UPCService\obj\Debug\netcoreapp2.2\UPCService.Views.pdb
+D:\5TO CICLO\APLICACIONES WEB\UPCService\obj\Debug\netcoreapp2.2\UPCService.dll
+D:\5TO CICLO\APLICACIONES WEB\UPCService\obj\Debug\netcoreapp2.2\UPCService.pdb
+D:\5TO CICLO\APLICACIONES WEB\UPCService\obj\Debug\netcoreapp2.2\UPCService.csproj.CopyComplete
