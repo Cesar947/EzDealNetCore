@@ -18,7 +18,7 @@ namespace UPCService.Models
         public string Apellidos { get; set; }
         public string UrlContacto { get; set; }
         public string Telefono { get; set; }
-        public Distrito codigoDistrito {get; set;}
+        public Distrito Distrito {get; set;}
         public int Rol { get; set; }
     }
 }

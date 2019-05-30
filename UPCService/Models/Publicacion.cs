@@ -13,16 +13,16 @@ namespace UPCService.Models
     {
         public int Id{ get; set; }
 
-        public Usuario publicista { get; set; }
+        public Usuario Publicista { get; set; }
 
-        public string titulo { get; set; }
+        public string Titulo { get; set; }
 
-        public string descripcion { get; set; }
+        public string Descripcion { get; set; }
 
-        public int costoServicio { get; set; }
+        public int CostoServicio { get; set; }
 
-        public Servicio servicio { get; set; }
+        public Servicio Servicio { get; set; }
 
-        public int estaHabilitado { get; set; }
+        public int EstaHabilitado { get; set; }
     }
 }

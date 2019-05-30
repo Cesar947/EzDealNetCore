@@ -11,9 +11,9 @@ namespace UPCService.Models
 {
     public class Solicitud
     {
-        public int codigoSolicitud { get; set; }
-        public Publicacion codigoPublicacion { get; set; }
-        public Usuario codigoCliente { get; set; }
-        public string mensajeSolicitud { get; set; }
+        public int Id { get; set; }
+        public Publicacion Publicacion { get; set; }
+        public Usuario Cliente { get; set; }
+        public string Mensaje { get; set; }
     }
 }
