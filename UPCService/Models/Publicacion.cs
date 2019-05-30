@@ -11,9 +11,9 @@ namespace UPCService.Models
 {
     public class Publicacion
     {
-        public int codigoPublicacion { get; set; }
+        public int Id{ get; set; }
 
-        public Usuario codigoPublicista { get; set; }
+        public Usuario publicista { get; set; }
 
         public string titulo { get; set; }
 
@@ -21,7 +21,7 @@ namespace UPCService.Models
 
         public int costoServicio { get; set; }
 
-        public Servicio codigoServicio { get; set; }
+        public Servicio servicio { get; set; }
 
         public int estaHabilitado { get; set; }
     }

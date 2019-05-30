@@ -12078,11 +12078,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\5TO CICLO\\APLICACIONES WEB\\UPCService\\UPCService.csproj",
+      "projectUniqueName": "D:\\5TO CICLO\\APLICACIONES WEB\\REPOSITORIO CORE\\EzDealNetCore\\UPCService\\UPCService.csproj",
       "projectName": "UPCService",
-      "projectPath": "D:\\5TO CICLO\\APLICACIONES WEB\\UPCService\\UPCService.csproj",
+      "projectPath": "D:\\5TO CICLO\\APLICACIONES WEB\\REPOSITORIO CORE\\EzDealNetCore\\UPCService\\UPCService.csproj",
       "packagesPath": "C:\\Users\\César Alejandro\\.nuget\\packages\\",
-      "outputPath": "D:\\5TO CICLO\\APLICACIONES WEB\\UPCService\\obj\\",
+      "outputPath": "D:\\5TO CICLO\\APLICACIONES WEB\\REPOSITORIO CORE\\EzDealNetCore\\UPCService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

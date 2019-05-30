@@ -11,9 +11,9 @@ namespace UPCService.Models
 {
     public class Reseña
     {
-        public int codigoResena { get; set; }
-        public Publicacion codigoPublicacion { get; set; }
-        public Usuario codigoCliente { get; set; }
+        public int Id { get; set; }
+        public Publicacion publicacion { get; set; }
+        public Usuario cliente { get; set; }
         public string contenido { get; set; }
         public float valoracion { get; set; } 
     }

@@ -11,7 +11,7 @@ namespace UPCService.Models
 {
     public class Distrito
     {
-        public int codigoDistrito { get; set; }
+        public int Id { get; set; }
         public string nombre { get; set; }
     }
 }
